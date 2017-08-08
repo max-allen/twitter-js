@@ -1,0 +1,30 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "A data store to hold our tweets on the server. This is not a persistent database; we will simply be using a JavaScript array to hold objects in the server's RAM."
+  },
+  "keywords": [
+    "A",
+    "Twitter-like",
+    "homepage",
+    "that",
+    "lists",
+    "all",
+    "tweets",
+    "from",
+    "all",
+    "users."
+  ],
+  "author": "A form to post new tweets.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
